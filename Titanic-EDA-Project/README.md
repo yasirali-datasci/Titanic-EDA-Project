@@ -1,0 +1,1 @@
+“This script performs EDA on Titanic dataset: handles missing values, plots boxplots & correlation heatmap.”
